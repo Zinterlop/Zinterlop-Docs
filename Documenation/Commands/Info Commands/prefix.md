@@ -4,4 +4,4 @@
 
 |!prefix|Get the bot's prefix|`None`|
 
-* Note if you changed your bot prefix use the prefix you changed it to
+* Warning! If you changed the bot's prefix from other than default follow your normal bot prefix you used
