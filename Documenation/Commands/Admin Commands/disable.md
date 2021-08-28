@@ -1,5 +1,7 @@
 # Disable command
 
+|Command|Description|Permissions|
+
 |!disable serverinfo|Disable a module or a command|`None`|
 
 * Note! You do not have the ability to disable any admin commands or help command.

@@ -1,5 +1,7 @@
 # setleavemessage command
 
+|Command|Description|Permissions|
+
 |!setleavemessage @Member has left the server|Set the message you want the bot to send when a member leaves|`MANAGE_GUILDS`|
 
 * Note! You may use variables for the bot to say @member which will tag the user that left.
