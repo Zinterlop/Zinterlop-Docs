@@ -1,3 +1,5 @@
+# Serverinfo command
+
 |Command|Description|Permissions|
 
 |!serverinfo|Get your server's info|`None`|

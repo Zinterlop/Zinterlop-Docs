@@ -1,3 +1,5 @@
+# Stats command
+
 |Command|Description|Permissions|
 
 |!stats|Get the bot's stats and hardware|`None`|
