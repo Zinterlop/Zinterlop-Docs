@@ -2,7 +2,7 @@
 
 |Command|Description|Permissions|
 
-|!unban @User |Unban the specified user|`Mod Role`|
+|!unban @User |Unban the specified user|`Mod Role or above`|
 
 
 * Warning! If you changed the bot's prefix from other than default follow your normal bot prefix you used.
