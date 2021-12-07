@@ -1,8 +1,8 @@
-# Interlop Bot
+# Zinterlop Bot
 
-Documentation on Interlop with information and guides
+Documentation on Zinterlop with information and guides
 
-If you are here to Interlop bot, please refer to setup.md to get information on how to invite the bot.
+If you are here to Zinterlop bot, please refer to setup.md to get information on how to invite the bot.
 
 ## Support/Report Bugs/Suggestions
 

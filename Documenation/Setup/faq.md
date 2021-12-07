@@ -1,6 +1,6 @@
 # FAQ
 
-## How do I invite Zantryon Bot Bot to my server?
+## How do I invite Zinterlop Bot Bot to my server?
 
 You will need **`Manage Server`** or **`Administrator`** permissions to the bot. Use this [Discord Oauth URL](https://discord.com/oauth2/authorize?client_id=878842219036024872&permissions=-30020514&scope=bot+applications.commands+identify+guilds) to invite the bot.
 
@@ -8,7 +8,7 @@ You will need **`Manage Server`** or **`Administrator`** permissions to the bot.
 
 The default prefix is `!`. At the moment, there is no ability to change the default prefix.
 
-## Why is Zantryon Bot offline?
+## Why is Zinterlop Bot offline?
 
 The bot may be offline due to the machine either being offline/shutdown or the bot had an error and went offline without any command. 
 If the bot does go offline, please report this by joining our [Discord](https://discord.gg/jWFB56RqUN)
