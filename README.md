@@ -1,8 +1,8 @@
-# Zantryon Bot
+# Interlop Bot
 
 Documentation on Zantryon with information and guides
 
-If you are here to Zantryon bot, please refer to setup.md to get information on how to invite the bot.
+If you are here to Interlop bot, please refer to setup.md to get information on how to invite the bot.
 
 ## Support/Report Bugs/Suggestions
 
